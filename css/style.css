@@ -40,7 +40,7 @@ body {
     font-size: 45px;
     line-height: 55px;
     margin:0 0 25px 0;
-    color: #000;
+    color:#291230;
 }
 .about-me-discription {
 font-style: normal;
@@ -135,7 +135,7 @@ margin: 0 0 15px 0;
 
 /* sidebar-sections */
 .sidebar-sections {
-    background-color: #1E2939;
+    background-color: #291230;
     width: 370px; 
     padding: 40px;
 }
@@ -166,7 +166,7 @@ margin: 0 0 15px 0;
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
-    color: #565E6A;
+    color: #b35b13;
 }
 /* tech & soft-skills-sections */
 .tech-skills-list,
