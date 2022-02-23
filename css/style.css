@@ -135,12 +135,30 @@ body {
 
 /* sidebar-sections */
 .sidebar-sections {
-  background-color: #291230;
+  display: block;
+  background-image: linear-gradient(
+    to bottom, white , rgb(59, 8, 47) 20%);
+  /* background-color: #3d1832; */
   width: 370px;
   padding: 40px;
 }
+.with-img {
+  border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+  /* margin-bottom: 30px; */
+  display: inline-flex;
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  /* border: 1px solid rgb(145, 140, 144); */
+  box-shadow: 10px 10px 8px 2px rgba(0, 0, 0, 0.3);
+  
+}
+
 .contacts-section .tech-skills-section .soft-skills-section {
   margin: 50px;
+  
 }
 .sidebar-title {
   font-style: normal;
